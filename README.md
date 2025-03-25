@@ -25,3 +25,8 @@ This project focuses on predicting customer churn in a banking environment using
 ```bash
 git clone https://gitlab.com/your-username/your-repo-name.git
 cd your-repo-name
+
+### 2. Run the jupyter notebook (experiments.ipynb and prediction.ipynb)
+
+### 3. Launch streamlit app
+        streamlit run app.py
